@@ -7,3 +7,4 @@ The python script will be called by applescript
 With Automator, the applescript can be call from service or shortcut
 
 Mouse click can triggered using Logitech option or other mouse app.
+
